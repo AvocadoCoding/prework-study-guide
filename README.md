@@ -5,17 +5,13 @@
 I have created a study guide website as a reference to record key points I have learned about the different software languages and tools I will use, and in the process of building the website I have practiced using them. 
 
 
-## Installation
-
-N/A
-
 ## Usage
 
 Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. If we open the DevTools console in Google Chrome, we can see the JavaScript running, it will list the topics we learned from prework and choose one topic for us to study first.
 
-## Credits
+## Deployed Webpage Link
 
-N/A
+https://avocadocoding.github.io/prework-study-guide/
 
 ## License
 
